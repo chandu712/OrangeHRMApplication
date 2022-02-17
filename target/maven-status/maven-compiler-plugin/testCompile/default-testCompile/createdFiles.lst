@@ -1,0 +1,7 @@
+com\OrangeHRM\testCases\TC002_CheckForgotYourPassword.class
+com\OrangeHRM\utilities\ExtentReportManager.class
+com\OrangeHRM\testCases\TC003_CheckApplicationTitle.class
+com\OrangeHRM\PageObjects\LoginPage.class
+com\OrangeHRM\testCases\TC001_CheckLoginSuccessful.class
+com\OrangeHRM\PageObjects\DashBoardPage.class
+com\OrangeHRM\testBase\BaseClass.class

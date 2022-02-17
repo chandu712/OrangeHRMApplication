@@ -1,0 +1,249 @@
+[INFO ] 2022-02-13 22:59:45.778 [main] TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-13 22:59:47.249 [main] TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-13 22:59:48.906 [main] TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-13 22:59:53.848 [main] TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-13 22:59:54.715 [main] TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-13 23:02:49.762 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-13 23:02:51.011 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-13 23:02:52.909 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-13 23:02:56.911 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-13 23:02:57.774 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-13 23:11:03.428 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-13 23:11:04.979 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-13 23:11:06.864 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-13 23:11:11.805 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-13 23:11:12.713 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-13 23:11:14.389 TC002_CheckForgotYourPassword - Chrome Browser is launched successfully
+[INFO ] 2022-02-13 23:11:15.805 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-13 23:11:17.772 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-13 23:11:17.826 TC002_CheckForgotYourPassword - Forgot your password? link Text is matching.
+[INFO ] 2022-02-13 23:11:18.627 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-13 23:11:20.308 TC003_CheckApplicationTitle - Chrome Browser is launched successfully
+[INFO ] 2022-02-13 23:11:21.551 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-13 23:11:23.292 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-13 23:11:23.306 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-13 23:11:24.109 TC003_CheckApplicationTitle - Application closed successfully
+[INFO ] 2022-02-14 11:39:42.922 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 11:39:44.445 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:39:46.211 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:39:49.370 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 11:39:50.253 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 11:39:51.854 TC002_CheckForgotYourPassword - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 11:39:53.308 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:39:55.113 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:39:55.180 TC002_CheckForgotYourPassword - Forgot your password? link Text is matching.
+[INFO ] 2022-02-14 11:39:56.083 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-14 11:39:57.588 TC003_CheckApplicationTitle - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 11:39:59.162 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:40:01.140 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:40:01.152 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-14 11:40:02.028 TC003_CheckApplicationTitle - Application closed successfully
+[INFO ] 2022-02-14 11:42:11.167 TC001_CheckLoginSuccessful - Edge browser is launched successfully
+[INFO ] 2022-02-14 11:42:14.771 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:16.904 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:22.488 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 11:42:25.147 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 11:42:25.582 TC001_CheckLoginSuccessful - Edge browser is launched successfully
+[INFO ] 2022-02-14 11:42:25.799 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:27.409 TC002_CheckForgotYourPassword - Edge browser is launched successfully
+[INFO ] 2022-02-14 11:42:28.568 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:33.496 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 11:42:34.570 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 11:42:34.932 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:38.006 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:38.073 TC002_CheckForgotYourPassword - Forgot your password? link Text is matching.
+[INFO ] 2022-02-14 11:42:39.002 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-14 11:42:40.753 TC002_CheckForgotYourPassword - Edge browser is launched successfully
+[INFO ] 2022-02-14 11:42:42.873 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:44.811 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:45.305 TC002_CheckForgotYourPassword - Forgot your password? link Text is matching.
+[INFO ] 2022-02-14 11:42:45.840 TC003_CheckApplicationTitle - Edge browser is launched successfully
+[INFO ] 2022-02-14 11:42:47.493 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-14 11:42:48.243 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:50.136 TC003_CheckApplicationTitle - Edge browser is launched successfully
+[INFO ] 2022-02-14 11:42:50.361 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:50.398 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-14 11:42:52.171 TC003_CheckApplicationTitle - Application closed successfully
+[INFO ] 2022-02-14 11:42:53.680 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:55.839 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:42:55.854 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-14 11:42:56.945 TC003_CheckApplicationTitle - Application closed successfully
+[INFO ] 2022-02-14 11:45:32.038 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 11:45:33.396 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:45:35.195 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:45:38.446 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 11:45:39.368 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 11:45:41.022 TC002_CheckForgotYourPassword - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 11:45:42.777 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:45:44.818 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:45:44.894 TC002_CheckForgotYourPassword - Forgot your password? link Text is matching.
+[INFO ] 2022-02-14 11:45:45.673 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-14 11:45:47.979 TC003_CheckApplicationTitle - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 11:45:49.523 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:45:52.481 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:45:52.495 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-14 11:45:53.410 TC003_CheckApplicationTitle - Application closed successfully
+[INFO ] 2022-02-14 11:46:09.979 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 11:46:11.387 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:46:12.995 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:46:15.926 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 11:46:16.780 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 11:46:18.400 TC002_CheckForgotYourPassword - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 11:46:19.826 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:46:21.488 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:46:21.558 TC002_CheckForgotYourPassword - Forgot your password? link Text is matching.
+[INFO ] 2022-02-14 11:46:22.381 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-14 11:46:23.898 TC003_CheckApplicationTitle - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 11:46:25.600 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:46:27.424 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:46:27.436 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-14 11:46:28.365 TC003_CheckApplicationTitle - Application closed successfully
+[INFO ] 2022-02-14 11:46:53.874 TC001_CheckLoginSuccessful - Edge browser is launched successfully
+[INFO ] 2022-02-14 11:46:56.126 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:46:57.852 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:47:00.623 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 11:47:01.579 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 11:47:03.332 TC002_CheckForgotYourPassword - Edge browser is launched successfully
+[INFO ] 2022-02-14 11:47:05.568 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:47:07.593 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:47:07.672 TC002_CheckForgotYourPassword - Forgot your password? link Text is matching.
+[INFO ] 2022-02-14 11:47:08.605 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-14 11:47:10.344 TC003_CheckApplicationTitle - Edge browser is launched successfully
+[INFO ] 2022-02-14 11:47:12.717 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:47:15.671 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:47:15.700 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-14 11:47:16.777 TC003_CheckApplicationTitle - Application closed successfully
+[INFO ] 2022-02-14 11:48:03.910 TC001_CheckLoginSuccessful - Firefox browser is launched successfully
+[INFO ] 2022-02-14 11:48:04.032 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:48:06.278 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:48:09.100 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 11:48:11.550 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 11:48:18.849 TC002_CheckForgotYourPassword - Firefox browser is launched successfully
+[INFO ] 2022-02-14 11:48:18.907 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:48:21.048 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:48:21.172 TC002_CheckForgotYourPassword - Forgot your password? link Text is matching.
+[INFO ] 2022-02-14 11:48:23.077 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-14 11:48:31.259 TC003_CheckApplicationTitle - Firefox browser is launched successfully
+[INFO ] 2022-02-14 11:48:31.292 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:48:33.191 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 11:48:33.219 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-14 11:49:44.074 TC003_CheckApplicationTitle - Application closed successfully
+[INFO ] 2022-02-14 13:40:24.731 TC001_CheckLoginSuccessful - Firefox browser is launched successfully
+[INFO ] 2022-02-14 13:40:24.777 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:40:27.202 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:40:27.672 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:40:27.998 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:40:30.696 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 13:44:07.234 TC001_CheckLoginSuccessful - Firefox browser is launched successfully
+[INFO ] 2022-02-14 13:44:07.296 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:44:09.011 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:44:09.280 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:44:09.761 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:44:12.568 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 13:46:02.685 TC001_CheckLoginSuccessful - Firefox browser is launched successfully
+[INFO ] 2022-02-14 13:46:02.732 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:46:04.705 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:46:05.020 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:46:05.420 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:46:08.129 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 13:46:50.038 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 13:46:51.349 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:46:53.041 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:46:53.825 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:46:54.400 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:46:56.295 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 13:48:20.056 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 13:48:21.302 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:48:22.883 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:48:23.667 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:48:24.252 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:48:26.085 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 13:50:54.919 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 13:50:56.042 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:50:57.712 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 13:50:58.463 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:50:59.014 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 13:51:01.925 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 14:50:05.493 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 14:50:06.432 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 14:50:08.186 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 14:50:08.969 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 14:50:09.538 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 14:50:11.362 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 14:58:40.248 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 14:58:41.465 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 14:58:42.600 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 14:58:43.366 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 14:58:43.905 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 14:58:45.776 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 15:02:31.258 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 15:02:32.306 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 15:02:33.642 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 15:02:34.385 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 15:02:34.984 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 15:02:38.255 TC001_CheckLoginSuccessful - Screenshot captured successfully
+[INFO ] 2022-02-14 15:02:38.258 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 15:02:39.204 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 15:05:58.065 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 15:05:59.139 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 15:06:00.776 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 15:06:03.842 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 15:06:04.778 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 15:06:50.938 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 15:06:51.786 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 15:06:53.263 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 15:06:56.490 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 15:06:57.334 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 16:00:22.823 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 16:00:23.888 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:00:25.834 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:00:28.905 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 16:00:29.802 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 16:01:28.942 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 16:01:30.277 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:01:31.927 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:01:34.431 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 16:01:35.298 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 16:01:36.792 TC002_CheckForgotYourPassword - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 16:01:38.495 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:01:39.819 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:01:40.521 TC002_CheckForgotYourPassword - Screenshot captured successfully
+[INFO ] 2022-02-14 16:01:41.566 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-14 16:01:43.243 TC003_CheckApplicationTitle - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 16:01:44.856 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:01:46.369 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:01:47.124 TC003_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 2022-02-14 16:01:47.130 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-14 16:01:47.913 TC003_CheckApplicationTitle - Application closed successfully
+[INFO ] 2022-02-14 16:02:18.253 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 16:02:19.716 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:02:21.374 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:02:24.384 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 16:02:25.230 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 16:02:26.920 TC002_CheckForgotYourPassword - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 16:02:28.305 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:02:29.934 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:02:30.654 TC002_CheckForgotYourPassword - Screenshot captured successfully
+[INFO ] 2022-02-14 16:02:31.735 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-14 16:02:33.307 TC003_CheckApplicationTitle - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 16:02:34.786 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:02:36.695 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:02:37.437 TC003_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 2022-02-14 16:02:37.444 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-14 16:02:38.297 TC003_CheckApplicationTitle - Application closed successfully
+[INFO ] 2022-02-14 16:04:31.788 TC001_CheckLoginSuccessful - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 16:04:33.322 TC001_CheckLoginSuccessful - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:04:34.751 TC001_CheckLoginSuccessful - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:04:37.545 TC001_CheckLoginSuccessful - User logged in successfully
+[INFO ] 2022-02-14 16:04:38.340 TC001_CheckLoginSuccessful - Application closed successfully
+[INFO ] 2022-02-14 16:04:39.837 TC002_CheckForgotYourPassword - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 16:04:41.134 TC002_CheckForgotYourPassword - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:04:42.559 TC002_CheckForgotYourPassword - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:04:42.656 TC002_CheckForgotYourPassword - Forgot your password? link Text is matching.
+[INFO ] 2022-02-14 16:04:43.450 TC002_CheckForgotYourPassword - Application closed successfully
+[INFO ] 2022-02-14 16:04:45.122 TC003_CheckApplicationTitle - Chrome Browser is launched successfully
+[INFO ] 2022-02-14 16:04:46.320 TC003_CheckApplicationTitle - URL in the properties file is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:04:47.748 TC003_CheckApplicationTitle - URL entered is - https://opensource-demo.orangehrmlive.com/
+[INFO ] 2022-02-14 16:04:48.486 TC003_CheckApplicationTitle - Screenshot captured successfully
+[INFO ] 2022-02-14 16:04:48.495 TC003_CheckApplicationTitle - Application title is - OrangeHRM
+[INFO ] 2022-02-14 16:04:49.206 TC003_CheckApplicationTitle - Application closed successfully

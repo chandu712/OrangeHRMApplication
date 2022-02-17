@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Regression Suite" duration-ms="8993" started-at="2022-02-14T20:06:48Z" finished-at="2022-02-14T20:06:57Z">
+    <groups>
+    </groups>
+    <test name="TC001_CheckLoginSuccessful" duration-ms="8993" started-at="2022-02-14T20:06:48Z" finished-at="2022-02-14T20:06:57Z">
+      <class name="com.OrangeHRM.testCases.TC001_CheckLoginSuccessful">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.OrangeHRM.testCases.TC001_CheckLoginSuccessful@149d738]" name="setup" is-config="true" duration-ms="4909" started-at="2022-02-14T15:06:48Z" finished-at="2022-02-14T15:06:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.OrangeHRM.testCases.TC001_CheckLoginSuccessful@149d738]" name="loginTest" duration-ms="3215" started-at="2022-02-14T15:06:53Z" finished-at="2022-02-14T15:06:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.OrangeHRM.testCases.TC001_CheckLoginSuccessful@149d738]" name="tearDown" is-config="true" duration-ms="841" started-at="2022-02-14T15:06:56Z" finished-at="2022-02-14T15:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.OrangeHRM.testCases.TC001_CheckLoginSuccessful -->
+    </test> <!-- TC001_CheckLoginSuccessful -->
+  </suite> <!-- Regression Suite -->
+</testng-results>
